@@ -1,0 +1,1 @@
+SinhVien{maSinhVien=1, tenSinhVien='Hoang', diemToan=9.0, diemLy=8.0, diemHoa=9.75}
